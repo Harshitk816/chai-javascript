@@ -15,8 +15,13 @@ let isLoggedIn = 1
 console.log(Boolean(isLoggedIn))
 
 let someNumber = 33
-console.log(String(typeof(someNumber)))
-console.log(typeof(String(someNumber)))
+// console.log(String(typeof(someNumber)))
+// console.log(typeof(String(someNumber)))
+
+//////////////////////////////////Operations//////////////////////////////////////
+let value = 5
+let negvalue = -value
+console.log(negvalue);
 
 
 
