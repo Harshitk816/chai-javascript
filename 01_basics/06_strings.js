@@ -16,12 +16,9 @@ console.log(strObj.charAt(6));
 console.log(strObj.toUpperCase());
 console.log(strObj.indexOf('r'));
 console.log(strObj.toLocaleLowerCase());
-strObj[4]='e';
-console.log(strObj);
 
-let arr = [2,4,5,2,5,3];
-arr[3]=5;
-console.log(arr);
+console.log(strObj.substring(1,4));
+
 
 
 
