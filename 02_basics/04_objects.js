@@ -31,6 +31,8 @@ mergedObj["1"]="ab"
 
 
 //merging using spread operators
+
+
 const mergedObj2 = {...obj1,...obj2}
 // console.log(mergedObj2);
 
